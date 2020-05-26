@@ -35,7 +35,7 @@ input:hover{
     transition: 0.7s ease-in-out;
     transform: rotate3d(10deg);
 }
-#content{
+#content, #contentx, #contenty{
     display: grid;
     grid-template-columns: 30% 30% 30%;
     justify-content: space-around;
